@@ -1,7 +1,7 @@
 # Namz
 음성데이터 수집
 --------------
-| ------------------------------: |
+
 <div style="text-align: right"> 프로젝트명: 음성인식용 데이터 수집 </div><br>
 <div style="text-align: right"> 이름: 지자현 </div><br>
 <div style="text-align: right"> 날짜: 03/20 </div><br>
